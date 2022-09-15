@@ -26,7 +26,5 @@ largest = c;
 
 return (largest);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
+
 
