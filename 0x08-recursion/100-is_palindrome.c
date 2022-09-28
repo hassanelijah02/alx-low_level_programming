@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * palind2 - a function that returns 1 if a string is a palindrome and 0 if not.
+ * palind2 - returns 1 if a string is a palindrome and 0 if not.
  * @a: string
  * @l: integer to count length
  *
