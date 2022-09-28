@@ -6,7 +6,6 @@
  * @b: number that iterates from 1 to n
  *
  * Return: On success 0.
-
  */
 int prime2(int a, int b)
 {
