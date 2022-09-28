@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prime2 - a function that returns 1 if the input integer is a prime number else return 0
+ * prime2 - returns 1 if the input integer is a prime number else return 0
  * @a: same number as n
  * @b: number that iterates from 1 to n
  *
